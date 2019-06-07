@@ -1,3 +1,6 @@
+Here is the link to the netily page of our project
+https://laughing-benz-fbdc26.netlify.com/
+
 # **Code With Us**/_Free Code Camp_ Site
 
 ## CWU Tribute Page based on the corresponding Free Code Camp responsive web project.
