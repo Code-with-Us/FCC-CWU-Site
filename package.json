@@ -2,8 +2,8 @@
   "name": "FCC-CWU-Site",
   "version": "1.0.0",
   "scripts": {
-    "serve": "parcel serve src/index.html --open",
-    "build": "parcel build src/index.html"
+    "serve": "parcel serve src/pages/tribute.html --open",
+    "build": "parcel build src/pages/tribute.html"
   },
   "keywords": [],
   "author": "",
