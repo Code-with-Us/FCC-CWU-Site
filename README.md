@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dbad689e-6f93-41d9-9daa-1f3060a477bd/deploy-status)](https://app.netlify.com/sites/laughing-benz-fbdc26/deploys)
+
 # **Code With Us**/_Free Code Camp_ Site
 
 ## CWU Tribute Page based on the corresponding Free Code Camp responsive web project.
