@@ -1,14 +1,72 @@
 
+<!-- https://www.youtube.com/watch?v=-sIVAeAUK94&t=893s -->
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>FCC Survey</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Free Code Camp Survey Form</title>
+  <link rel='stylesheet' href='/src/css/contact.css'>
 </head>
+
+<!--TITLE story#1 -->
+
 <body>
+
+    <header>
+      <h1 id="title"> Survery Form Template </h1>
+    </header>
+    <!-- FORM story #3-->
+    <form id="survey-form"></form>
+    <div class='survey description'>
+      <!-- DESCRIPTION story #2-->
+      <p id="description">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Quo ex adipisci odio obcaecati.
+      </p>
+    </div>
+    <!-- NAME story #4-->
+    <div class="rowinfo">
+  
     
-</body>
-<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
-</html>
+    <div id="name-container">
+      <label form="name" id="name-label">Name:</label>
+      <input type="text" id="name" name="name" placeholder="Enter your name..." required>
+    </div>
+    <!-- EMAIL story #5 -->
+    <div id="email-container">
+      <label form="email" id="email-label">Email:</label><!-- story #10 -->
+      <input type="email" id="email" name="email" placeholder="Enter your email..." required><!-- story #11 -->
+    </div>
+    <!-- AGE  story #6-->
+    <div id="age-container">
+      <label form="age" id="number">Age:</label>
+      <input type="text" id="age" name="age" placeholder="Enter your age..." required>
+    </div>
+  
+    <!-- DROPDOWN story #12 -->
+    <div id="question-container">
+      <label form="dropdown">Ask a question</label>
+      <select name="role" id="dropdown">
+        <option name="boot camp">Select an option</option>
+        <option name="college"></option>
+        <option name="self taught"></option>
+        <option name="MOOC"></option>
+        <option name="OJT"></option>
+      </select>
+    </div>
+  </div>
+    <!-- RADIO BUTTOMS -->
+  
+  
+  
+  
+  
+  
+  
+  
+    <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+  </body>
+  
+  </html>

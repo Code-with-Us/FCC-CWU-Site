@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    margin:0;
+    padding:0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.5rem;
+    background-color:rgb(213, 238, 177);
+}
+#survey-form{
+    background-color: rgb(85, 221, 61);
+    width:900px;
+    margin: 0 auto;
+}
+
+#title{
+    
+    color:rgb(78, 160, 71);
+}
+#name-label{
+    color:rgb(37, 116, 37);
+    display:inline-block;
+    width:40%;
+    text-align:right;
+}
+#name{
+    display: inline-block;
+}
+#email-label{
+    color:rgb(240, 95, 27);
+    display:inline-block;
+    width:40%;
+    text-align:right;
+}
+#email{
+    display: inline-block;
+}
+#age-label{
+    color:rgb(33, 19, 231);
+    display:inline-block;
+    width:40%;
+    text-align:right;
+}
+#age{
+    display: inline-block;
+}
